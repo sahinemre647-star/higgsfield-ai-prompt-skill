@@ -87,3 +87,7 @@ workspace/                ← Git-ignored working area (input/ → processed/, o
 - Version bumps require a git tag + GitHub release, not just a commit. Full ceremony: `.claude/commands/release.md` (main is protected — tag the **merge commit**; the USER-GUIDE PDF is an untracked release artifact: regenerate → refresh MANIFEST → `gh release upload`; delete release branches after merge)
 - Spec refreshes (Tier 2): `/refresh-specs` — dump `models_explore` (video/image/audio/3d; refuse `has_more: true`) → dated snapshot in `specs/` → `scripts/sync_specs.py` → `scripts/snapshot_crosscheck.py` → **audit `evals/cases/` in the same PR** (v3.11.3 lesson; `sync_specs.py --changed` lists them) → `scripts/refresh_specs.py --update-baseline`
 - Commit format: `feat: vX.Y.Z — description` or `fix: vX.Y.Z — description`
+
+## TikTok log
+
+The owner's TikTok videos are tracked in `tiktok/` (see `tiktok/README.md`). For any TikTok or video task: run `python3 tiktok/log.py list` and `report` first, log every new video with `add`, ask for stats with `stats`, then commit and push.
