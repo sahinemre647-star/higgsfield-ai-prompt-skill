@@ -1,1 +1,1006 @@
-{"videos": []}
+{
+  "videos": [
+    {
+      "id": "v001",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Im Regen gehen oder rennen?",
+      "hook": "Im Regen gehen oder rennen?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "regen_gehen_oder_rennen.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v002",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Das Ziegenproblem",
+      "hook": "Das Ziegenproblem",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "ziegenproblem.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v003",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Milch sofort oder später in den Kaffee?",
+      "hook": "Milch sofort oder später in den Kaffee?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "milch_im_kaffee.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v004",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Offener Kühlschrank = kühlere Küche?",
+      "hook": "Offener Kühlschrank = kühlere Küche?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "kuehlschrank_offen.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v005",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Fällt Toast immer auf die Butterseite?",
+      "hook": "Fällt Toast immer auf die Butterseite?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "toast_butterseite.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v006",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Kühlt ein Ventilator den Raum?",
+      "hook": "Kühlt ein Ventilator den Raum?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "ventilator.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v007",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Läuft das Glas über, wenn das Eis schmilzt?",
+      "hook": "Läuft das Glas über, wenn das Eis schmilzt?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "eiswuerfel_glas.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v008",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Ein Kilo Federn oder ein Kilo Eisen?",
+      "hook": "Ein Kilo Federn oder ein Kilo Eisen?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "kilo_federn_eisen.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v009",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Münze vom Hochhaus – tödlich?",
+      "hook": "Münze vom Hochhaus – tödlich?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "muenze_hochhaus.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v010",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Nudeln kochen auf dem Berg",
+      "hook": "Nudeln kochen auf dem Berg",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "nudeln_berg.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v011",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Warum klingt deine Stimme auf Aufnahmen komisch?",
+      "hook": "Warum klingt deine Stimme auf Aufnahmen komisch?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "eigene_stimme.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v012",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Kann man ein Glas zersingen?",
+      "hook": "Kann man ein Glas zersingen?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "glas_zersingen.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v013",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Geburtstagsparadoxon – nur 23 Leute!",
+      "hook": "Geburtstagsparadoxon – nur 23 Leute!",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "geburtstag_23.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v014",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Papier bis zum Mond falten",
+      "hook": "Papier bis zum Mond falten",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "papier_mond.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v015",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Warum ist der Himmel blau?",
+      "hook": "Warum ist der Himmel blau?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "himmel_blau.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v016",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Warum ist Schnee weiß?",
+      "hook": "Warum ist Schnee weiß?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "schnee_weiss.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v017",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Warum ist die andere Kasse immer schneller?",
+      "hook": "Warum ist die andere Kasse immer schneller?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "schlange_kasse.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v018",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Heißes oder kaltes Wasser – was friert zuerst?",
+      "hook": "Heißes oder kaltes Wasser – was friert zuerst?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "mpemba_effekt.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v019",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Warum fühlt sich Metall kälter an als Holz?",
+      "hook": "Warum fühlt sich Metall kälter an als Holz?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "metall_kaelter.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v020",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Lohnt sich Drängeln auf der Autobahn?",
+      "hook": "Lohnt sich Drängeln auf der Autobahn?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "draengeln_autobahn.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v021",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Warum kühlt Pusten die Suppe?",
+      "hook": "Warum kühlt Pusten die Suppe?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "suppe_pusten.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v022",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Warum frieren wir in 20 °C warmem Wasser?",
+      "hook": "Warum frieren wir in 20 °C warmem Wasser?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "wasser_20_grad.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v023",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Wie weit ist der Horizont?",
+      "hook": "Wie weit ist der Horizont?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "horizont_sicht.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v024",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Spart Licht ausschalten Strom?",
+      "hook": "Spart Licht ausschalten Strom?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie DE (24)",
+      "language": "de",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "file": "licht_ausschalten.mp4 (in alle_videos.zip)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v025",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Walk or run in the rain?",
+      "hook": "Walk or run in the rain?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#rain #walkorrun #physics #learnontiktok #didyouknow",
+      "file": "en_regen_gehen_oder_rennen.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v026",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "The Monty Hall problem",
+      "hook": "The Monty Hall problem",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#montyhall #montyhallproblem #math #brainteaser #learnontiktok",
+      "file": "en_ziegenproblem.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v027",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Milk now or later?",
+      "hook": "Milk now or later?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#coffee #coffeetok #physics #lifehack #didyouknow",
+      "file": "en_milch_im_kaffee.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v028",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Open fridge = cooler kitchen?",
+      "hook": "Open fridge = cooler kitchen?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#fridge #heatwave #summer #physics #mythbusting",
+      "file": "en_kuehlschrank_offen.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v029",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Butter side down?",
+      "hook": "Butter side down?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#toast #breakfast #murphyslaw #physics #didyouknow",
+      "file": "en_toast_butterseite.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v030",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Does a fan cool the room?",
+      "hook": "Does a fan cool the room?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#fan #heatwave #summer #savepower #didyouknow",
+      "file": "en_ventilator.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v031",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Does the glass overflow?",
+      "hook": "Does the glass overflow?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#icecube #archimedes #physics #experiment #learnontiktok",
+      "file": "en_eiswuerfel_glas.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v032",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Kilo of feathers or iron?",
+      "hook": "Kilo of feathers or iron?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#trickquestion #physics #riddle #buoyancy #didyouknow",
+      "file": "en_kilo_federn_eisen.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v033",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Coin from a skyscraper",
+      "hook": "Coin from a skyscraper",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#mythbusters #myth #physics #skyscraper #didyouknow",
+      "file": "en_muenze_hochhaus.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v034",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Pasta on a mountain",
+      "hook": "Pasta on a mountain",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#cooking #pasta #mountains #physics #didyouknow",
+      "file": "en_nudeln_berg.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v035",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Why does your voice sound weird on recordings?",
+      "hook": "Why does your voice sound weird on recordings?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#voice #voicememo #relatable #humanbody #didyouknow",
+      "file": "en_eigene_stimme.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v036",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Can you shatter a glass by singing?",
+      "hook": "Can you shatter a glass by singing?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#singing #resonance #physics #myth #didyouknow",
+      "file": "en_glas_zersingen.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v037",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "The birthday paradox – only 23 people!",
+      "hook": "The birthday paradox – only 23 people!",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#birthdayparadox #math #probability #riddle #learnontiktok",
+      "file": "en_geburtstag_23.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v038",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Fold paper to the Moon",
+      "hook": "Fold paper to the Moon",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#paper #moon #math #exponential #didyouknow",
+      "file": "en_papier_mond.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v039",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Why is the sky blue?",
+      "hook": "Why is the sky blue?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#sky #sunset #physics #nature #learnontiktok",
+      "file": "en_himmel_blau.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v040",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Why is snow white?",
+      "hook": "Why is snow white?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#snow #winter #physics #nature #didyouknow",
+      "file": "en_schnee_weiss.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v041",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Why is the other line always faster?",
+      "hook": "Why is the other line always faster?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#supermarket #relatable #statistics #everydaylife #didyouknow",
+      "file": "en_schlange_kasse.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v042",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Hot or cold water – which freezes first?",
+      "hook": "Hot or cold water – which freezes first?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#mpembaeffect #experiment #physics #myth #learnontiktok",
+      "file": "en_mpemba_effekt.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v043",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Why does metal feel colder than wood?",
+      "hook": "Why does metal feel colder than wood?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#heattransfer #physics #everydayscience #experiment #didyouknow",
+      "file": "en_metall_kaelter.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v044",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Is tailgating worth it?",
+      "hook": "Is tailgating worth it?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#driving #tailgating #roadsafety #traffic #didyouknow",
+      "file": "en_draengeln_autobahn.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v045",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Why does blowing cool soup?",
+      "hook": "Why does blowing cool soup?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#soup #cooking #physics #everydayscience #didyouknow",
+      "file": "en_suppe_pusten.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v046",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Why do we freeze in 20 °C water?",
+      "hook": "Why do we freeze in 20 °C water?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#swimming #lake #coldwater #physics #didyouknow",
+      "file": "en_wasser_20_grad.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v047",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "How far is the horizon?",
+      "hook": "How far is the horizon?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#horizon #ocean #earth #physics #didyouknow",
+      "file": "en_horizont_sicht.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v048",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Does switching off the light save power?",
+      "hook": "Does switching off the light save power?",
+      "niche": "Wissen: Alltagsphysik-Fragen",
+      "series": "Wissens-Serie EN (24)",
+      "language": "en",
+      "model": "Python+ffmpeg-Animation, Computerstimme, Untertitel",
+      "hashtags": "#savepower #energysaving #myth #lifehack #didyouknow",
+      "file": "en_licht_ausschalten.mp4 (in all_videos_english.zip)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Länge ca. 37–55 s – unter 1 Minute, also nicht Creator-Rewards-fähig."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v049",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Glass-Break: Glass",
+      "hook": "Zähler '100% … broken' – Ball mit Multiplikatoren zerschlägt Glas",
+      "niche": "Satisfying / Ball-Simulation",
+      "series": "Glass-Break (10)",
+      "model": "glass_sim.py (eigene Physik-Simulation), 720x1280",
+      "length_s": 34.8,
+      "file": "glass_videos/out/01_glass.mp4",
+      "sound": "Eigene Effekte (Glocken, Klirren, Bruch)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v050",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Glass-Break: Ice",
+      "hook": "Zähler '100% … broken' – Ball mit Multiplikatoren zerschlägt Glas",
+      "niche": "Satisfying / Ball-Simulation",
+      "series": "Glass-Break (10)",
+      "model": "glass_sim.py (eigene Physik-Simulation), 720x1280",
+      "length_s": 30.5,
+      "file": "glass_videos/out/02_ice.mp4",
+      "sound": "Eigene Effekte (Glocken, Klirren, Bruch)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v051",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Glass-Break: Ruby",
+      "hook": "Zähler '100% … broken' – Ball mit Multiplikatoren zerschlägt Glas",
+      "niche": "Satisfying / Ball-Simulation",
+      "series": "Glass-Break (10)",
+      "model": "glass_sim.py (eigene Physik-Simulation), 720x1280",
+      "length_s": 33.0,
+      "file": "glass_videos/out/03_ruby.mp4",
+      "sound": "Eigene Effekte (Glocken, Klirren, Bruch)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v052",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Glass-Break: Emerald",
+      "hook": "Zähler '100% … broken' – Ball mit Multiplikatoren zerschlägt Glas",
+      "niche": "Satisfying / Ball-Simulation",
+      "series": "Glass-Break (10)",
+      "model": "glass_sim.py (eigene Physik-Simulation), 720x1280",
+      "length_s": 35.7,
+      "file": "glass_videos/out/04_emerald.mp4",
+      "sound": "Eigene Effekte (Glocken, Klirren, Bruch)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v053",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Glass-Break: Diamond",
+      "hook": "Zähler '100% … broken' – Ball mit Multiplikatoren zerschlägt Glas",
+      "niche": "Satisfying / Ball-Simulation",
+      "series": "Glass-Break (10)",
+      "model": "glass_sim.py (eigene Physik-Simulation), 720x1280",
+      "length_s": 36.0,
+      "file": "glass_videos/out/05_diamond.mp4",
+      "sound": "Eigene Effekte (Glocken, Klirren, Bruch)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v054",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Glass-Break: Amber",
+      "hook": "Zähler '100% … broken' – Ball mit Multiplikatoren zerschlägt Glas",
+      "niche": "Satisfying / Ball-Simulation",
+      "series": "Glass-Break (10)",
+      "model": "glass_sim.py (eigene Physik-Simulation), 720x1280",
+      "length_s": 35.1,
+      "file": "glass_videos/out/06_amber.mp4",
+      "sound": "Eigene Effekte (Glocken, Klirren, Bruch)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v055",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Glass-Break: Crystal",
+      "hook": "Zähler '100% … broken' – Ball mit Multiplikatoren zerschlägt Glas",
+      "niche": "Satisfying / Ball-Simulation",
+      "series": "Glass-Break (10)",
+      "model": "glass_sim.py (eigene Physik-Simulation), 720x1280",
+      "length_s": 36.6,
+      "file": "glass_videos/out/07_crystal.mp4",
+      "sound": "Eigene Effekte (Glocken, Klirren, Bruch)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v056",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Glass-Break: Sapphire",
+      "hook": "Zähler '100% … broken' – Ball mit Multiplikatoren zerschlägt Glas",
+      "niche": "Satisfying / Ball-Simulation",
+      "series": "Glass-Break (10)",
+      "model": "glass_sim.py (eigene Physik-Simulation), 720x1280",
+      "length_s": 39.5,
+      "file": "glass_videos/out/08_sapphire.mp4",
+      "sound": "Eigene Effekte (Glocken, Klirren, Bruch)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v057",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Glass-Break: Obsidian",
+      "hook": "Zähler '100% … broken' – Ball mit Multiplikatoren zerschlägt Glas",
+      "niche": "Satisfying / Ball-Simulation",
+      "series": "Glass-Break (10)",
+      "model": "glass_sim.py (eigene Physik-Simulation), 720x1280",
+      "length_s": 36.7,
+      "file": "glass_videos/out/09_obsidian.mp4",
+      "sound": "Eigene Effekte (Glocken, Klirren, Bruch)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v058",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Glass-Break: Rose Quartz",
+      "hook": "Zähler '100% … broken' – Ball mit Multiplikatoren zerschlägt Glas",
+      "niche": "Satisfying / Ball-Simulation",
+      "series": "Glass-Break (10)",
+      "model": "glass_sim.py (eigene Physik-Simulation), 720x1280",
+      "length_s": 24.8,
+      "file": "glass_videos/out/10_rose_quartz.mp4",
+      "sound": "Eigene Effekte (Glocken, Klirren, Bruch)",
+      "stats": [],
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt."
+      ]
+    },
+    {
+      "id": "v059",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Finde das Zeichen – 10 Level",
+      "hook": "10 Level. 5 Sekunden pro Level. Ab Level 7 wird's fies.",
+      "niche": "Rätsel / Mitmachen",
+      "model": "Python-Render 1080x1920, Countdown + Ton",
+      "length_s": 73.5,
+      "file": "tiktok/finde-den-fehler-10-level.mp4",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Über 1 Minute (Creator Rewards). Weitere Ideen damals: Glass oder Bouncy als Nächstes."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v060",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Ring-Ball synchron zu Wrecking Ball (Test)",
+      "hook": "Ball trifft im Takt des Songs",
+      "niche": "Satisfying / Ball zu Musik",
+      "model": "Ring-Video-Generator, Neon-Look, Treffer aus Beat-Analyse",
+      "length_s": 62.7,
+      "sound": "Wrecking Ball ab 0:36 in TikTok drüberlegen (Originalton auf 0)",
+      "file": "ring-videos/output/sync/sync_wrecking_ball.mp4",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "156 Treffer/min. Sync in TikTok noch nicht vom Nutzer bestätigt."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v061",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Fotosynthese für Anfänger",
+      "hook": "Was ist Fotosynthese?",
+      "niche": "Wissen: Bio für Anfänger",
+      "model": "Python+ffmpeg-Animation, espeak-Stimme, 1280x720 (Querformat!)",
+      "length_s": 59,
+      "file": "foto/Fotosynthese_fuer_Anfaenger.mp4",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Querformat – für TikTok müsste es auf 9:16 umgebaut werden."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v062",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Trymacs-Streamclips mit Subway Surfers (10)",
+      "hook": "Stream-Moment oben, Subway Surfers unten",
+      "niche": "Streamer-Clips",
+      "series": "Stream-Clips",
+      "model": "subway_clips.py in a-Shell auf dem iPhone (Twitch-Clips)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Rechtlich unklar: nur clippen, wenn der Streamer es erlaubt."
+      ],
+      "stats": []
+    },
+    {
+      "id": "v063",
+      "logged": "2026-11-19T00:00:00Z",
+      "title": "Rohat-Streamclips GTA mit Subway Surfers (10)",
+      "hook": "Stream-Moment oben, Subway Surfers unten",
+      "niche": "Streamer-Clips",
+      "series": "Stream-Clips",
+      "model": "subway_clips.py in a-Shell auf dem iPhone (Twitch-Clips, letzte 24 h)",
+      "notes": [
+        "Nachgetragen aus früherer Sitzung; ob/wann gepostet ist unbekannt.",
+        "Rechtlich unklar: nur clippen, wenn der Streamer es erlaubt."
+      ],
+      "stats": []
+    }
+  ]
+}
